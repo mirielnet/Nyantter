@@ -1,9 +1,0 @@
-fastapi
-asyncpg
-websockets
-python-dotenv
-aiohttp
-bcrypt
-snowflake-id
-pyotp
-qrcode[pil]
